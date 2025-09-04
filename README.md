@@ -6,7 +6,7 @@
 
 ## 🎯 目标设备
 
-- **设备型号**: JDCloud RE-CP-03 (京东云无线宝)
+- **设备型号**: JDCloud RE-CP-03 (京东云无线宝/百里)
 - **芯片平台**: MediaTek MT7986 (Filogic)
 - **架构**: aarch64_cortex-a53
 - **WiFi芯片**: MT7976 (AX6000)
