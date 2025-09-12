@@ -26,9 +26,9 @@
 #git clone https://github.com/EasyTier/luci-app-easytier.git package/easytier
 #config_package_add luci-app-easytier
 
-git clone https://github.com/gdy666/luci-app-lucky.git package/lucky
-config_package_add luci-app-lucky
+#git clone https://github.com/gdy666/luci-app-lucky.git package/lucky
+#config_package_add luci-app-lucky
 
 # adguardhome 文件管理fileassistant
-git_sparse_clone main https://github.com/kenzok8/small-package luci-app-adguardhome luci-app-fileassistant
-config_package_add luci-app-adguardhome
+#git_sparse_clone main https://github.com/kenzok8/small-package luci-app-adguardhome luci-app-fileassistant
+#config_package_add luci-app-adguardhome
