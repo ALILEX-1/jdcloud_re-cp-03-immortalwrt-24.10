@@ -7,4 +7,4 @@ src-git lucky https://github.com/sirpdboy/luci-app-lucky.git;openwrt-24.10
 src-git nikki https://github.com/nikkinikki-org/OpenWrt-nikki.git;openwrt-24.10
 
 
-src-git luci-app-adguardhome https://github.com/kenzok8/small-package.git;openwrt-24.10
+#src-git luci-app-adguardhome https://github.com/kenzok8/small-package.git;openwrt-24.10
